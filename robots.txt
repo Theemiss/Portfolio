@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://www.theemis.cloud
+Sitemap: https://www.theemis.cloud/sitemap.xml
