@@ -8,7 +8,7 @@
 
 - Name: Ahmed Belhaj
 - Title: Platform Engineering Lead · Technical Manager · CTO @ DarDev
-- Research writing: https://www.theemis.cloud/writing/ai-orchestration-systems-research
+- Engineering program article: https://www.theemis.cloud/writing/ai-orchestration-systems-research
 - DarDev Studio case study: https://www.theemis.cloud/case-studies/dardev-studio-ai-orchestration
 - Location: Tunis, Tunisia · Remote EU
 - Email: ahmedbelhaj.it@gmail.com
