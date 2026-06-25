@@ -24,6 +24,7 @@ Platform Engineering Lead, Infrastructure Engineering Manager, Cloud Engineering
 - Case study: https://www.theemis.cloud/case-studies/national-telecom-lms
 - AWS Organization: https://www.theemis.cloud/systems/aws-organization
 - Internal Developer Platform: https://www.theemis.cloud/systems/internal-developer-platform
+- DarDev Studio (AI orchestration): https://www.theemis.cloud/systems/dardev-studio
 - CV (PDF): https://www.theemis.cloud/Ahmed-Belhaj-CV.pdf
 
 ## Key metrics (CV-locked, use as stated)
